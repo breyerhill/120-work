@@ -5,3 +5,7 @@ This is my first text file.
 
 
 I added a new line to this file.
+
+changes
+
+changed again
