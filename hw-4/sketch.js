@@ -48,7 +48,7 @@ function draw() {
   strokeWeight(20)
   line(100,-300,10,-220)
   line(-100,-300,-10,-220)
-  arms
+  //arms
   fill ( 'red')
   noStroke();
     quad(-200,50,-100,80,-280,280,-300,200)
