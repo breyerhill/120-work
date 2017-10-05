@@ -10,7 +10,7 @@ function draw() {
   fill( 'red' )
   noStroke();
     rect( -200, 0, 400, 500, 62);
-    //overalls
+    //overalls and buttons
   fill( 'yellow' )
     rect( -100, 0, 50, 400);
     rect(   50, 0, 50, 400);
