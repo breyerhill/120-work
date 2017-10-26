@@ -1,10 +1,5 @@
 Breyer Hill, Section 51
 
-[Live Sketch Link](Your Live Link)
-
-
-# HW 7 | Describe then Alter the Bouncing Ball
-
 ## My understanding of what the code is doing
 
 ### This segment of code is used to define the variable for the ball as well as turn it into an object with various attributes such as a width of 40. The next segment sets up the window by calling the setup function. It then creates a canvas with the width of the window and the height of 400. It also sets the background to the color white. The next portion of code is where things start to get more complex. The ball object is called and math functions are used to tell the ball to change its x an y coordinates based on delta_x and scale_x and likewise with the y position. Then it calls an if function to contain the ellipse within the window so that it appears bounces off of the walls. Its code tells the program that if the x value of the ball object is greater than or equal to the with and then uses the conditional operator ||, to tell the program to use or. The second parameter  is that that the x value of ball is less than or equal to 0. If either of those parameters is true the program will set ball delta x to 1. The y values follow the exact same code and do the virtually same things. The ellipse is finally drawn in the next segment of code. It is set to be the same width at all times which is 40 but changes its x and x positions based on the x and y variables attached to the ball object. The final portion of the code adjusts the x and y positions of the ball based on the users mouse click on the screen. The code tells the program to change the value of ball.scale_x and ball.scale_y based on the users mouse click position on the screen. It does this by remapping its values start and stop positions from the mouses x position from the entire window to a much smaller area.
