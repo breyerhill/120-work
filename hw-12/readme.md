@@ -1,0 +1,6 @@
+### Breyer Hill
+### Section 51
+
+# Week TWELVE
+## INTERCTION
+ This week I had the idea to create a 'game' that involved either saving or erasing dots on a screen. This sounds boring but proved to be much more interesting and a challenge for me to code as i got further into it. I knew I wanted to create a class that contained the dots so that I could control exactly how many appeared on the screen as well as other characteristics involved with the dots. I also knew I wanted to use a laser themed weapon to destroy the dots. My original intention was to create it so that once the line and circles touched each other that specific dot would be destroyed. i had troubles doing this and with a lack of remaining time for this assignment decided to switch it so that the laser could be controlled by a key press that triggered the laser effect as well as the splice function which is used to remove dots based on the parameters that you give it or to change out pieces in an array. I had a fun time completing this assignment this week and overall a great time in this class. I hope to continue to grow as a program and hopefully one day soon be able to apply them to something bigger such as a career or large project.  
